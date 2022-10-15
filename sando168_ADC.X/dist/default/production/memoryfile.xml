@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/sando168_ADC.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>8192</length>
+      <used>2102</used>
+      <free>6090</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>33018</length>
+      <used>12390</used>
+      <free>20628</free>
+    </memory>
+  </executable>
+</project>
